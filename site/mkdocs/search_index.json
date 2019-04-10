@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "CI/CD Pipeline with Jenkins\n\n\nIntroduction\n\n\nJenkins CI/CD pipeline automate the integration, stagging and deployment process.\nManual integration, test and deployments can lead to errors that a well defined CI/CD pipeline can avoide while testing the application.\n\n\nWhat is a Pipeline?\n\n\nA continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.\n\n\nsimple link\n  \n\n\nwith optional title\n  \n\n\n![some](images/img4.png)\n![Test Image 4](img3.png)\n\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject Scope\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "CI/CD Pipeline with Jenkins\n\n\nIntroduction\n\n\nJenkins CI/CD pipeline automate the integration, stagging and deployment process.\nManual integration, test and deployments can lead to errors that a well defined CI/CD pipeline can avoide while testing the application.\n\n\nWhat is a Pipeline?\n\n\nA continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.\n\n\nsimple link\n  \n\n\nwith optional title\n  \n\n\n![some](../images/img4.png)\n![Test Image 4](../images/img3.png)\n\n\n\n\n\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject Scope\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Home"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "location": "/#what-is-a-pipeline",
-            "text": "A continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.  simple link     with optional title     ![some](images/img4.png)\n![Test Image 4](img3.png)   mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "text": "A continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.  simple link     with optional title     ![some](../images/img4.png)\n![Test Image 4](../images/img3.png)     mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
             "title": "What is a Pipeline?"
         },
         {

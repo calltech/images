@@ -13,8 +13,8 @@ Manual integration, test and deployments can lead to errors that a well defined 
 
 	![some](../images/img4.png)
 	![Test Image 4](../images/img3.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](../imagesimg2.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/calltech/images/master/images/img1.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/calltech/images/master/images/img4.png)
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
