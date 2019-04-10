@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "CI/CD Pipeline with Jenkins\n\n\nIntroduction\n\n\nJenkins CI/CD pipeline automate the integration, stagging and deployment process.\nManual integration, test and deployments can lead to errors that a well defined CI/CD pipeline can avoide while testing the application.\n\n\nWhat is a Pipeline?\n\n\nA continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.\n\n\nsimple link\n  \n\n\nwith optional title\n  \n\n\n![some](images/img4.png)\n![Test Image 4](img3.png)\n\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject Scope\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#cicd-pipeline-with-jenkins",
+            "text": "",
+            "title": "CI/CD Pipeline with Jenkins"
+        },
+        {
+            "location": "/#introduction",
+            "text": "Jenkins CI/CD pipeline automate the integration, stagging and deployment process.\nManual integration, test and deployments can lead to errors that a well defined CI/CD pipeline can avoide while testing the application.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#what-is-a-pipeline",
+            "text": "A continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through the end users.  simple link     with optional title     ![some](images/img4.png)\n![Test Image 4](img3.png)   mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "What is a Pipeline?"
+        },
+        {
+            "location": "/#project-scope",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project Scope"
+        },
+        {
+            "location": "/about/",
+            "text": "Nigris ultra phocus\n\n\nUnda usus decepto tibia puer Tisiphone\n\n\nLorem markdownum alter pectora: est subito sacrorum, suos nempe onerosior est\nmanus tuetur. Uni cannae esse regno nempe coniugium calentibus animo in aut per.\nArbore turritaque orbe imagine et Noctem rupibus cum Procrin ignis tu dicat\ndolore coniungere, pennas \nconbibitur\n terga. Ad surgit, sacras vulgaris, est\nnon cultumque turba.\n\n\nIn ante pectora peregrinaeque erunt nostra thalamoque\n\n\nNon Helopsque! Sua undas flumen stimulosque inter edendo pectoribus obliquo\npopulos intempestiva saepe Aeolus. Velut frigusque, arce praerupit oculos tamen;\nnon auras, me quo \nsacra dummodo\n tela cum tuas. Et fessa, dum ferro dis solo.\nInsuetum tum manus Cercopum fontesque obstipui tempora Tethyn, caelum.\n\n\nmatrix_tft_media = backbone(version_java_add);\nvar matrix = pointResourcesSms(418819 + 1, data_e_upnp(rawUdp, 2 +\n        repositoryRwScan), parameter_printer - crossplatformPciBittorrent +\n        hypermediaModifier);\ndnsBusBackup = flashHalftone.mashup.internalJre(-3, 4 + case + serp_zip);\nhyper = macListservSocial(4);\npim -= cpa_spreadsheet;\n\n\n\nCitius Clymeneque quoque comites aditum et commune\n\n\nPassae rostrum, \nhoc\n absensauxilium conterit,\nanguicomae habebat. Aeterna innoxia in aequor regnat torruit. Non latices, aura\ntamen Dauni adspicit cum hanc illas Lycaon et tum prato armiferos restabat omnis\ndubitare. Ipse Echo erimus remisit ingemit probat positu\n\ncura\n hanc colunt nunc somnos, Phoco! Cuius\nramis laedar iterumque \nlongum\n, si Annus urbem, \npestis bis corpora\n.\n\n\nInter flamma post violavit\n\n\nFulva otia Minervae. Vota vertit: o et et aquas remeasse vagitus euntque proxima\ncaelo gravitate. Fuerit motaque etiam esse sine seu Paeonas quippe ad sese\nbalatum, caelo, boum ferro, populos. Ad explorat ferox fronte versat, pectora\nmore fama Herculis; quinquennem omne. \nImponit\nlacerata\n et adspicit naturalique quoque, hausit\nmente iacentes; tibi.\n\n\n\n\nDixit Et virgo. Sine radix nova tamen et corpora praeceps terga. Carere et\nteneris poenae; tenentem pater bis atram obumbrat divitior concedimus. Omnia\nquoniam mulcet mutata, est circuiere te statuistis peragant o palmas quicquam.\n\n\n\n\nMeorum dantem vulnera adhuc vultum non precando\n\n\nAgi animi superest e neque, specieque venit mihi respiciens; sua deserit caput.\nTot redderet excidit nomen; tenus quod et rivos saepius quiescet parentis.\n\n\n\n\nIsdem amat Aetna sermonibus patriam boves\n\n\nSimul vidisse agendum excipit\n\n\nDedit iubent pinnis postibus et altrici mater\n\n\nSequentur relictis tempusque\n\n\nNova huic sensit est scires quique Achilles\n\n\n\n\nPatriae repagula lucis\n. Nunc pependit, nitens strata, oscula et\n\nsororum\n tantum. Hunc tecta saepe\nfortia humanae putes, et loci Mygdoniusque solet flumina corpore; Iove est ad.\nGravem pellis lacrimis Aethionque stagna, et spectat mansit mediam! Solis petis\nputrefacta durescit coeptis occiduo, sit orbe, faciemque numen iugulaberis de\ntanta tamen, natam terrent dixit.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#nigris-ultra-phocus",
+            "text": "",
+            "title": "Nigris ultra phocus"
+        },
+        {
+            "location": "/about/#unda-usus-decepto-tibia-puer-tisiphone",
+            "text": "Lorem markdownum alter pectora: est subito sacrorum, suos nempe onerosior est\nmanus tuetur. Uni cannae esse regno nempe coniugium calentibus animo in aut per.\nArbore turritaque orbe imagine et Noctem rupibus cum Procrin ignis tu dicat\ndolore coniungere, pennas  conbibitur  terga. Ad surgit, sacras vulgaris, est\nnon cultumque turba.",
+            "title": "Unda usus decepto tibia puer Tisiphone"
+        },
+        {
+            "location": "/about/#in-ante-pectora-peregrinaeque-erunt-nostra-thalamoque",
+            "text": "Non Helopsque! Sua undas flumen stimulosque inter edendo pectoribus obliquo\npopulos intempestiva saepe Aeolus. Velut frigusque, arce praerupit oculos tamen;\nnon auras, me quo  sacra dummodo  tela cum tuas. Et fessa, dum ferro dis solo.\nInsuetum tum manus Cercopum fontesque obstipui tempora Tethyn, caelum.  matrix_tft_media = backbone(version_java_add);\nvar matrix = pointResourcesSms(418819 + 1, data_e_upnp(rawUdp, 2 +\n        repositoryRwScan), parameter_printer - crossplatformPciBittorrent +\n        hypermediaModifier);\ndnsBusBackup = flashHalftone.mashup.internalJre(-3, 4 + case + serp_zip);\nhyper = macListservSocial(4);\npim -= cpa_spreadsheet;",
+            "title": "In ante pectora peregrinaeque erunt nostra thalamoque"
+        },
+        {
+            "location": "/about/#citius-clymeneque-quoque-comites-aditum-et-commune",
+            "text": "Passae rostrum,  hoc  absensauxilium conterit,\nanguicomae habebat. Aeterna innoxia in aequor regnat torruit. Non latices, aura\ntamen Dauni adspicit cum hanc illas Lycaon et tum prato armiferos restabat omnis\ndubitare. Ipse Echo erimus remisit ingemit probat positu cura  hanc colunt nunc somnos, Phoco! Cuius\nramis laedar iterumque  longum , si Annus urbem,  pestis bis corpora .",
+            "title": "Citius Clymeneque quoque comites aditum et commune"
+        },
+        {
+            "location": "/about/#inter-flamma-post-violavit",
+            "text": "Fulva otia Minervae. Vota vertit: o et et aquas remeasse vagitus euntque proxima\ncaelo gravitate. Fuerit motaque etiam esse sine seu Paeonas quippe ad sese\nbalatum, caelo, boum ferro, populos. Ad explorat ferox fronte versat, pectora\nmore fama Herculis; quinquennem omne.  Imponit\nlacerata  et adspicit naturalique quoque, hausit\nmente iacentes; tibi.   Dixit Et virgo. Sine radix nova tamen et corpora praeceps terga. Carere et\nteneris poenae; tenentem pater bis atram obumbrat divitior concedimus. Omnia\nquoniam mulcet mutata, est circuiere te statuistis peragant o palmas quicquam.",
+            "title": "Inter flamma post violavit"
+        },
+        {
+            "location": "/about/#meorum-dantem-vulnera-adhuc-vultum-non-precando",
+            "text": "Agi animi superest e neque, specieque venit mihi respiciens; sua deserit caput.\nTot redderet excidit nomen; tenus quod et rivos saepius quiescet parentis.   Isdem amat Aetna sermonibus patriam boves  Simul vidisse agendum excipit  Dedit iubent pinnis postibus et altrici mater  Sequentur relictis tempusque  Nova huic sensit est scires quique Achilles   Patriae repagula lucis . Nunc pependit, nitens strata, oscula et sororum  tantum. Hunc tecta saepe\nfortia humanae putes, et loci Mygdoniusque solet flumina corpore; Iove est ad.\nGravem pellis lacrimis Aethionque stagna, et spectat mansit mediam! Solis petis\nputrefacta durescit coeptis occiduo, sit orbe, faciemque numen iugulaberis de\ntanta tamen, natam terrent dixit.",
+            "title": "Meorum dantem vulnera adhuc vultum non precando"
+        }
+    ]
+}
